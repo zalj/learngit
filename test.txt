@@ -1,2 +1,0 @@
-Nothing new 
-Test Git remove function.
